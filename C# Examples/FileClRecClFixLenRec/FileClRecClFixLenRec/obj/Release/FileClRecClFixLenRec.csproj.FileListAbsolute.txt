@@ -1,0 +1,15 @@
+C:\Documents and Settings\kaminski\Desktop\FileClRecClFixLenRec\FileClRecClFixLenRec\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\FileClRecClFixLenRec\FileClRecClFixLenRec\bin\Release\FileClRecClFixLenRec.exe
+C:\Documents and Settings\kaminski\Desktop\FileClRecClFixLenRec\FileClRecClFixLenRec\bin\Release\FileClRecClFixLenRec.pdb
+C:\Documents and Settings\kaminski\Desktop\FileClRecClFixLenRec\FileClRecClFixLenRec\obj\Release\FileClRecClFixLenRec.exe
+C:\Documents and Settings\kaminski\Desktop\FileClRecClFixLenRec\FileClRecClFixLenRec\obj\Release\FileClRecClFixLenRec.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\FileClRecClFixLenRec\FileClRecClFixLenRec\obj\Release\FileClRecClFixLenRec.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\FileClRecClFixLenRec\FileClRecClFixLenRec\obj\Release\FileClRecClFixLenRec.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\FileClRecClFixLenRec\FileClRecClFixLenRec\bin\Release\FileClRecClFixLenRec.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\FileClRecClFixLenRec\FileClRecClFixLenRec\bin\Release\FileClRecClFixLenRec.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\FileClRecClFixLenRec\FileClRecClFixLenRec\obj\Release\ResolveAssemblyReference.cache
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\FileClRecClFixLenRec\FileClRecClFixLenRec\obj\Release\FileClRecClFixLenRec.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\FileClRecClFixLenRec\FileClRecClFixLenRec\obj\Release\FileClRecClFixLenRec.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\FileClRecClFixLenRec\FileClRecClFixLenRec\bin\Release\FileClRecClFixLenRec.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\FileClRecClFixLenRec\FileClRecClFixLenRec\bin\Release\FileClRecClFixLenRec.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\FileClRecClFixLenRec\FileClRecClFixLenRec\obj\Release\FileClRecClFixLenRec.csprojResolveAssemblyReference.cache

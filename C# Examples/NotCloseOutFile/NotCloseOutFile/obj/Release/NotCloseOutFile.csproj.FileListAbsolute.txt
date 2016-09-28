@@ -1,0 +1,22 @@
+C:\Documents and Settings\WMUFaculty\Desktop\NotCloseOutFile\NotCloseOutFile\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\WMUFaculty\Desktop\NotCloseOutFile\NotCloseOutFile\bin\Release\NotCloseOutFile.exe
+C:\Documents and Settings\WMUFaculty\Desktop\NotCloseOutFile\NotCloseOutFile\bin\Release\NotCloseOutFile.pdb
+C:\Documents and Settings\WMUFaculty\Desktop\NotCloseOutFile\NotCloseOutFile\obj\Release\NotCloseOutFile.exe
+C:\Documents and Settings\WMUFaculty\Desktop\NotCloseOutFile\NotCloseOutFile\obj\Release\NotCloseOutFile.pdb
+C:\Documents and Settings\WMUFaculty\My Documents\+ Classes\cs3310\C# programs\F09 C# FILE examples\NotCloseOutFile\NotCloseOutFile\obj\Release\NotCloseOutFile.exe
+C:\Documents and Settings\WMUFaculty\My Documents\+ Classes\cs3310\C# programs\F09 C# FILE examples\NotCloseOutFile\NotCloseOutFile\obj\Release\NotCloseOutFile.pdb
+C:\Documents and Settings\WMUFaculty\My Documents\+ Classes\cs3310\C# programs\F09 C# FILE examples\NotCloseOutFile\NotCloseOutFile\bin\Release\NotCloseOutFile.exe
+C:\Documents and Settings\WMUFaculty\My Documents\+ Classes\cs3310\C# programs\F09 C# FILE examples\NotCloseOutFile\NotCloseOutFile\bin\Release\NotCloseOutFile.pdb
+C:\Documents and Settings\WMUFaculty\My Documents\+ Classes\cs3310\C# programs\F09 C# FILE examples\NotCloseOutFile\NotCloseOutFile\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Donna\Documents\+ Classes\3310\C# FILE handling\F09 File examples\NotCloseOutFile\NotCloseOutFile\obj\Release\NotCloseOutFile.exe
+C:\Users\Donna\Documents\+ Classes\3310\C# FILE handling\F09 File examples\NotCloseOutFile\NotCloseOutFile\obj\Release\NotCloseOutFile.pdb
+C:\Users\Donna\Documents\+ Classes\+ 3310\C# FILE handling\F09 File examples\NotCloseOutFile\NotCloseOutFile\obj\Release\NotCloseOutFile.exe
+C:\Users\Donna\Documents\+ Classes\+ 3310\C# FILE handling\F09 File examples\NotCloseOutFile\NotCloseOutFile\obj\Release\NotCloseOutFile.pdb
+C:\Users\Donna\Documents\+ Classes\+ 3310\C# FILE handling\F09 File examples\NotCloseOutFile\NotCloseOutFile\bin\Release\NotCloseOutFile.exe
+C:\Users\Donna\Documents\+ Classes\+ 3310\C# FILE handling\F09 File examples\NotCloseOutFile\NotCloseOutFile\bin\Release\NotCloseOutFile.pdb
+C:\Users\Donna\Documents\+ Classes\+ 3310\C# FILE handling\F09 File examples\NotCloseOutFile\NotCloseOutFile\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\NotCloseOutFile\NotCloseOutFile\obj\Release\NotCloseOutFile.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\NotCloseOutFile\NotCloseOutFile\obj\Release\NotCloseOutFile.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\NotCloseOutFile\NotCloseOutFile\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\NotCloseOutFile\NotCloseOutFile\bin\Release\NotCloseOutFile.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\NotCloseOutFile\NotCloseOutFile\bin\Release\NotCloseOutFile.pdb

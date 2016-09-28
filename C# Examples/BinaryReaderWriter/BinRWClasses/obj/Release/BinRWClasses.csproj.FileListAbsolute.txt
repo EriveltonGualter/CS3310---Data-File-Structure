@@ -1,0 +1,10 @@
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\BinRWClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\BinRWClasses\bin\Release\BinRWClasses.dll
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\BinRWClasses\bin\Release\BinRWClasses.pdb
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\BinRWClasses\obj\Release\BinRWClasses.dll
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\BinRWClasses\obj\Release\BinRWClasses.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinRWClasses\bin\Release\BinRWClasses.dll
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinRWClasses\bin\Release\BinRWClasses.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinRWClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinRWClasses\obj\Release\BinRWClasses.dll
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinRWClasses\obj\Release\BinRWClasses.pdb

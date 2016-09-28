@@ -1,0 +1,12 @@
+C:\Documents and Settings\kaminski\Desktop\UsingFileStream\UsingFileStream\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\UsingFileStream\UsingFileStream\bin\Release\UsingFileStream.exe
+C:\Documents and Settings\kaminski\Desktop\UsingFileStream\UsingFileStream\bin\Release\UsingFileStream.pdb
+C:\Documents and Settings\kaminski\Desktop\UsingFileStream\UsingFileStream\obj\Release\UsingFileStream.exe
+C:\Documents and Settings\kaminski\Desktop\UsingFileStream\UsingFileStream\obj\Release\UsingFileStream.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\UsingFileStream\UsingFileStream\obj\Release\UsingFileStream.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\UsingFileStream\UsingFileStream\obj\Release\UsingFileStream.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\UsingFileStream\UsingFileStream\bin\Release\UsingFileStream.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\UsingFileStream\UsingFileStream\bin\Release\UsingFileStream.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\UsingFileStream\UsingFileStream\obj\Release\ResolveAssemblyReference.cache
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\UsingFileStream\UsingFileStream\obj\Release\UsingFileStream.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\UsingFileStream\UsingFileStream\obj\Release\UsingFileStream.pdb

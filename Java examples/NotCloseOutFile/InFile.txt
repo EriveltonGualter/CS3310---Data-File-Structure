@@ -1,0 +1,15 @@
+1,Marilyn Parker-Barnes,programmer,1234 West Pine Ave.,Kalamazoo,MI,49006
+2,Rajesh Samir Patel,web designer,22 Glendale St.,Portage,MI,49002
+3,Jose Rodriguez,sw developer,9876 Western State Road,Grand Rapids,MI,49504
+4,Chi Wang,system administrator,99 North Park Apt #10,Schoolcraft,MI,49079
+5,Jonathan Michael Smith,developer,352 Cedar Bluff Circle,Portage,MI,49024
+6,Leticia Jones,dba assistant,82 North 35th St.,Kalamazoo,MI,49009
+7,Shaun O'Leary,programmer,10 Nazareth Road Apt #22,Kalamazoo,MI,49005
+8,Cho Ju Houng,sw developer,135 West Academy St.,Kalamazoo,MI,49006
+9,Lottie Z. Witkowski,web designer,794 Oakwood Apt 4,Wayland,MI,49024
+10,Francoise Labelle,dba,9012 Sunset Creek Drive,Battle Creek,MI,49123
+11,Heinrich Siemens,software engineer,951 West Arcade Drive,Vicksburg,MI,49078
+12,Hussein Abdullah,programmer,37 East Mills St.,Grand Rapids,MI,49503
+13,Paul Barker-Mills,system administrator,2 Hardy St.,Kalamazoo,MI,49008
+14,Qi Li,project manager,248 Binary Circle,Plainwell,MI,49075
+15,Mary Ellen Kopinski-Boschmann,Programmer,12 Swallow Dr.,Portage,MI,49024

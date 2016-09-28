@@ -1,0 +1,9 @@
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\Driver\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\Driver\bin\Release\Driver.exe
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\Driver\bin\Release\Driver.pdb
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\Driver\bin\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\Driver\bin\Release\TwoProgShareClass.exe
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\Driver\bin\Release\DisplayTheFile.pdb
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\Driver\bin\Release\TwoProgShareClass.pdb
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\Driver\obj\Release\Driver.exe
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\Driver\obj\Release\Driver.pdb

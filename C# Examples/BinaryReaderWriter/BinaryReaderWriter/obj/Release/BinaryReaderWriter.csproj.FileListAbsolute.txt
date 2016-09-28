@@ -1,0 +1,16 @@
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\BinaryReaderWriter\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\BinaryReaderWriter\bin\Release\BinaryReaderWriter.exe
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\BinaryReaderWriter\bin\Release\BinaryReaderWriter.pdb
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\BinaryReaderWriter\bin\Release\BinRWClasses.dll
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\BinaryReaderWriter\bin\Release\BinRWClasses.pdb
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\BinaryReaderWriter\obj\Release\BinaryReaderWriter.exe
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\BinaryReaderWriter\obj\Release\BinaryReaderWriter.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinaryReaderWriter\obj\Release\BinaryReaderWriter.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinaryReaderWriter\obj\Release\BinaryReaderWriter.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinaryReaderWriter\bin\Release\BinaryReaderWriter.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinaryReaderWriter\bin\Release\BinaryReaderWriter.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinaryReaderWriter\bin\Release\BinRWClasses.dll
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinaryReaderWriter\bin\Release\BinRWClasses.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinaryReaderWriter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Donna\Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinaryReaderWriter\obj\Release\BinaryReaderWriter.exe
+C:\Users\Donna\Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\BinaryReaderWriter\obj\Release\BinaryReaderWriter.pdb

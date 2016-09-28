@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Databases/RawDataClass.cs">
+    <Files>
+      <File FileName="Databases/NameIndexClass.cs" Line="106" Column="113" />
+      <File FileName="Databases/DataTableClass.cs" Line="129" Column="24" />
+      <File FileName="Databases/PrettyPrintUtility.cs" Line="116" Column="22" />
+      <File FileName="Databases/TestDriver.cs" Line="20" Column="59" />
+      <File FileName="Databases/UI.cs" Line="271" Column="54" />
+      <File FileName="Databases/UserApp.cs" Line="24" Column="40" />
+      <File FileName="Databases/RawDataClass.cs" Line="96" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

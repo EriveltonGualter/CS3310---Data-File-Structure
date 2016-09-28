@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHas2Prog", "AppHas2Prog\AppHas2Prog.csproj", "{16464D24-4A7F-4DEC-92E0-06AB4491DD65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayTheFile", "DisplayTheFile\DisplayTheFile.csproj", "{FE5A9F5E-6F1C-4EE2-BA97-711323A7FB66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16464D24-4A7F-4DEC-92E0-06AB4491DD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16464D24-4A7F-4DEC-92E0-06AB4491DD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16464D24-4A7F-4DEC-92E0-06AB4491DD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16464D24-4A7F-4DEC-92E0-06AB4491DD65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5A9F5E-6F1C-4EE2-BA97-711323A7FB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5A9F5E-6F1C-4EE2-BA97-711323A7FB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5A9F5E-6F1C-4EE2-BA97-711323A7FB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5A9F5E-6F1C-4EE2-BA97-711323A7FB66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

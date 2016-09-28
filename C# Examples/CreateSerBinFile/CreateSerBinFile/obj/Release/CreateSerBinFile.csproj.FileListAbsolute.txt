@@ -1,0 +1,5 @@
+C:\Users\Donna\Desktop\CreateSerBinFile\CreateSerBinFile\bin\Release\CreateSerBinFile.exe
+C:\Users\Donna\Desktop\CreateSerBinFile\CreateSerBinFile\bin\Release\CreateSerBinFile.pdb
+C:\Users\Donna\Desktop\CreateSerBinFile\CreateSerBinFile\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Donna\Desktop\CreateSerBinFile\CreateSerBinFile\obj\Release\CreateSerBinFile.exe
+C:\Users\Donna\Desktop\CreateSerBinFile\CreateSerBinFile\obj\Release\CreateSerBinFile.pdb

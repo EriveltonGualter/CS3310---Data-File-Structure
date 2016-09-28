@@ -1,0 +1,442 @@
+STATUS > Setup Started
+STATUS > RawData File opened (A1RawDataSample.csv)
+STATUS > RawData File closed (A1RawDataSample.csv)
+STATUS > Setup finished - 19 countries processed
+STATUS > TransData FILE opened A1TransData1.txt
+AN
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  AND 007 Andorra                                              Europe               468        78,000 83.5
+  ATA 024 Antarctica                                           Antarctica    13,120,000   000,000,000 00.0
+  BRA 020 Brazil                                               South America  8,547,403   170,115,000 62.9
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+  DEU 018 Germany                                              Europe           357,022    82,164,700 77.4
+  VAT 012 Holy See (Vatican City State)                        Europe               0.4         1,000 00.0
+  IND 004 India                                                Asia           3,287,263 1,013,662,000 62.5
+  JPN 021 Japan                                                Asia             377,829   126,714,000 80.7
+  MCO 006 Monaco                                               Europe               1.5        34,000 78.8
+  RUS 010 Russian Federation                                   Europe        17,075,400   146,934,000 67.2
+  ZAF 001 South Africa                                         Africa         1,221,037    40,377,000 51.1
+  SDN 011 Sudan                                                Africa         2,505,813    29,490,000 56.6
+  SYR 017 Syria                                                Asia             185,180    16,125,000 68.5
+  UKR 009 Ukraine                                              Europe           603,700    50,456,000 66.0
+  GBR 016 United Kingdom                                       Europe           242,900    59,623,400 77.7
+  USA 002 United States                                        North America  9,363,520   278,357,000 77.1
+  UMI 005 United States Minor Outlying Islands                 Oceania               16   000,000,000 00.0
+  ZWE 023 Zimbabwe                                             Africa           390,757    11,669,000 37.8
+AI
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ZAF 001 South Africa                                         Africa         1,221,037    40,377,000 51.1
+  USA 002 United States                                        North America  9,363,520   278,357,000 77.1
+  IND 004 India                                                Asia           3,287,263 1,013,662,000 62.5
+  UMI 005 United States Minor Outlying Islands                 Oceania               16   000,000,000 00.0
+  MCO 006 Monaco                                               Europe               1.5        34,000 78.8
+  AND 007 Andorra                                              Europe               468        78,000 83.5
+  UKR 009 Ukraine                                              Europe           603,700    50,456,000 66.0
+  RUS 010 Russian Federation                                   Europe        17,075,400   146,934,000 67.2
+  SDN 011 Sudan                                                Africa         2,505,813    29,490,000 56.6
+  VAT 012 Holy See (Vatican City State)                        Europe               0.4         1,000 00.0
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+  GBR 016 United Kingdom                                       Europe           242,900    59,623,400 77.7
+  SYR 017 Syria                                                Asia             185,180    16,125,000 68.5
+  DEU 018 Germany                                              Europe           357,022    82,164,700 77.4
+  BRA 020 Brazil                                               South America  8,547,403   170,115,000 62.9
+  JPN 021 Japan                                                Asia             377,829   126,714,000 80.7
+  ZWE 023 Zimbabwe                                             Africa           390,757    11,669,000 37.8
+  ATA 024 Antarctica                                           Antarctica    13,120,000   000,000,000 00.0
+SN China
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+SN CHINA
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+AI
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ZAF 001 South Africa                                         Africa         1,221,037    40,377,000 51.1
+  USA 002 United States                                        North America  9,363,520   278,357,000 77.1
+  IND 004 India                                                Asia           3,287,263 1,013,662,000 62.5
+  UMI 005 United States Minor Outlying Islands                 Oceania               16   000,000,000 00.0
+  MCO 006 Monaco                                               Europe               1.5        34,000 78.8
+  AND 007 Andorra                                              Europe               468        78,000 83.5
+  UKR 009 Ukraine                                              Europe           603,700    50,456,000 66.0
+  RUS 010 Russian Federation                                   Europe        17,075,400   146,934,000 67.2
+  SDN 011 Sudan                                                Africa         2,505,813    29,490,000 56.6
+  VAT 012 Holy See (Vatican City State)                        Europe               0.4         1,000 00.0
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+  GBR 016 United Kingdom                                       Europe           242,900    59,623,400 77.7
+  SYR 017 Syria                                                Asia             185,180    16,125,000 68.5
+  DEU 018 Germany                                              Europe           357,022    82,164,700 77.4
+  BRA 020 Brazil                                               South America  8,547,403   170,115,000 62.9
+  JPN 021 Japan                                                Asia             377,829   126,714,000 80.7
+  ZWE 023 Zimbabwe                                             Africa           390,757    11,669,000 37.8
+  ATA 024 Antarctica                                           Antarctica    13,120,000   000,000,000 00.0
+SN chinA
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+SN Chin
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN China          
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+SN China doll
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN China=
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN     China
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+SI 13
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country id
+SI 10
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  RUS 010 Russian Federation                                   Europe        17,075,400   146,934,000 67.2
+SI 1
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ZAF 001 South Africa                                         Africa         1,221,037    40,377,000 51.1
+SI 24
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ATA 024 Antarctica                                           Antarctica    13,120,000   000,000,000 00.0
+SI 0000024
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ATA 024 Antarctica                                           Antarctica    13,120,000   000,000,000 00.0
+SN United
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN United We Stand
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN United States
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  USA 002 United States                                        North America  9,363,520   278,357,000 77.1
+SN United States of America
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SI 0
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country id
+SI 999999999
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country id
+SI 25
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country id
+SN South Georgia and the South Sandwich Islands
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN South Georgia
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN Russia
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN Russian Federation
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  RUS 010 Russian Federation                                   Europe        17,075,400   146,934,000 67.2
+SI 19
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country id
+SI 8
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country id
+SN Egypt
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN Aaa
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN Zoo
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN Antarctica
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ATA 024 Antarctica                                           Antarctica    13,120,000   000,000,000 00.0
+SN Zimbabwe
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ZWE 023 Zimbabwe                                             Africa           390,757    11,669,000 37.8
+SN 2
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SI 2
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  USA 002 United States                                        North America  9,363,520   278,357,000 77.1
+AI
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ZAF 001 South Africa                                         Africa         1,221,037    40,377,000 51.1
+  USA 002 United States                                        North America  9,363,520   278,357,000 77.1
+  IND 004 India                                                Asia           3,287,263 1,013,662,000 62.5
+  UMI 005 United States Minor Outlying Islands                 Oceania               16   000,000,000 00.0
+  MCO 006 Monaco                                               Europe               1.5        34,000 78.8
+  AND 007 Andorra                                              Europe               468        78,000 83.5
+  UKR 009 Ukraine                                              Europe           603,700    50,456,000 66.0
+  RUS 010 Russian Federation                                   Europe        17,075,400   146,934,000 67.2
+  SDN 011 Sudan                                                Africa         2,505,813    29,490,000 56.6
+  VAT 012 Holy See (Vatican City State)                        Europe               0.4         1,000 00.0
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+  GBR 016 United Kingdom                                       Europe           242,900    59,623,400 77.7
+  SYR 017 Syria                                                Asia             185,180    16,125,000 68.5
+  DEU 018 Germany                                              Europe           357,022    82,164,700 77.4
+  BRA 020 Brazil                                               South America  8,547,403   170,115,000 62.9
+  JPN 021 Japan                                                Asia             377,829   126,714,000 80.7
+  ZWE 023 Zimbabwe                                             Africa           390,757    11,669,000 37.8
+  ATA 024 Antarctica                                           Antarctica    13,120,000   000,000,000 00.0
+STATUS > TransData FILE closed 37 Transaction processed
+STATUS > TransData FILE opened A1TransData2.txt
+STATUS > TransData FILE closed 0 Transaction processed
+STATUS > TransData FILE opened A1TransData3.txt
+AN
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  AND 007 Andorra                                              Europe               468        78,000 83.5
+  ATA 024 Antarctica                                           Antarctica    13,120,000   000,000,000 00.0
+  BRA 020 Brazil                                               South America  8,547,403   170,115,000 62.9
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+  DEU 018 Germany                                              Europe           357,022    82,164,700 77.4
+  VAT 012 Holy See (Vatican City State)                        Europe               0.4         1,000 00.0
+  IND 004 India                                                Asia           3,287,263 1,013,662,000 62.5
+  JPN 021 Japan                                                Asia             377,829   126,714,000 80.7
+  MCO 006 Monaco                                               Europe               1.5        34,000 78.8
+  RUS 010 Russian Federation                                   Europe        17,075,400   146,934,000 67.2
+  ZAF 001 South Africa                                         Africa         1,221,037    40,377,000 51.1
+  SDN 011 Sudan                                                Africa         2,505,813    29,490,000 56.6
+  SYR 017 Syria                                                Asia             185,180    16,125,000 68.5
+  UKR 009 Ukraine                                              Europe           603,700    50,456,000 66.0
+  GBR 016 United Kingdom                                       Europe           242,900    59,623,400 77.7
+  USA 002 United States                                        North America  9,363,520   278,357,000 77.1
+  UMI 005 United States Minor Outlying Islands                 Oceania               16   000,000,000 00.0
+  ZWE 023 Zimbabwe                                             Africa           390,757    11,669,000 37.8
+AI
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ZAF 001 South Africa                                         Africa         1,221,037    40,377,000 51.1
+  USA 002 United States                                        North America  9,363,520   278,357,000 77.1
+  IND 004 India                                                Asia           3,287,263 1,013,662,000 62.5
+  UMI 005 United States Minor Outlying Islands                 Oceania               16   000,000,000 00.0
+  MCO 006 Monaco                                               Europe               1.5        34,000 78.8
+  AND 007 Andorra                                              Europe               468        78,000 83.5
+  UKR 009 Ukraine                                              Europe           603,700    50,456,000 66.0
+  RUS 010 Russian Federation                                   Europe        17,075,400   146,934,000 67.2
+  SDN 011 Sudan                                                Africa         2,505,813    29,490,000 56.6
+  VAT 012 Holy See (Vatican City State)                        Europe               0.4         1,000 00.0
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+  GBR 016 United Kingdom                                       Europe           242,900    59,623,400 77.7
+  SYR 017 Syria                                                Asia             185,180    16,125,000 68.5
+  DEU 018 Germany                                              Europe           357,022    82,164,700 77.4
+  BRA 020 Brazil                                               South America  8,547,403   170,115,000 62.9
+  JPN 021 Japan                                                Asia             377,829   126,714,000 80.7
+  ZWE 023 Zimbabwe                                             Africa           390,757    11,669,000 37.8
+  ATA 024 Antarctica                                           Antarctica    13,120,000   000,000,000 00.0
+DN
+   SORRY, Delete By Name module not yet working
+DI
+   SORRY, Delete By Id module not yet working
+DN
+   SORRY, Delete By Name module not yet working
+DI
+   SORRY, Delete By Id module not yet working
+DI
+   SORRY, Delete By Id module not yet working
+SN United Kingdom
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  GBR 016 United Kingdom                                       Europe           242,900    59,623,400 77.7
+SI 10
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  RUS 010 Russian Federation                                   Europe        17,075,400   146,934,000 67.2
+IN  ARG, 26, Argentina, South America, 2780400, 37032000, 75.1
+  OK, country inserted (in data storage & name index)
+IN  JAM, 25, Jamaica, North America, 10990, 2583000, 75.2
+  OK, country inserted (in data storage & name index)
+IN  CUB, 3, Cuba, North America, 110861, 11201000, 76.2
+  OK, country inserted (in data storage & name index)
+IN  AUT, 19, Austria, Europe, 83859, 8091800, 77.7
+  OK, country inserted (in data storage & name index)
+IN  BWA, 12, Botswana, Africa, 581730, 1622000, 39.3
+  ERROR, the id is already used
+IN  KAZ, 8, Kazakstan, Asia, 2724900, 16223000, 63.2
+  OK, country inserted (in data storage & name index)
+SN Kazakstan
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  KAZ 008 Kazakstan                                            Asia           2,724,900    16,223,000 63.2
+SN Botswana
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SI 8
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  KAZ 008 Kazakstan                                            Asia           2,724,900    16,223,000 63.2
+SI 3
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  CUB 003 Cuba                                                 North America    110,861    11,201,000 76.2
+SI 26
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ARG 026 Argentina                                            South America  2,780,400    37,032,000 75.1
+SN Argentina
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ARG 026 Argentina                                            South America  2,780,400    37,032,000 75.1
+SN Jamaica
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  JAM 025 Jamaica                                              North America     10,990     2,583,000 75.2
+SI 25
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  JAM 025 Jamaica                                              North America     10,990     2,583,000 75.2
+SI 12
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  VAT 012 Holy See (Vatican City State)                        Europe               0.4         1,000 00.0
+SN Cuba
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  CUB 003 Cuba                                                 North America    110,861    11,201,000 76.2
+SN Austria
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  AUT 019 Austria                                              Europe            83,859     8,091,800 77.7
+SI 19
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  AUT 019 Austria                                              Europe            83,859     8,091,800 77.7
+AI
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ZAF 001 South Africa                                         Africa         1,221,037    40,377,000 51.1
+  USA 002 United States                                        North America  9,363,520   278,357,000 77.1
+  CUB 003 Cuba                                                 North America    110,861    11,201,000 76.2
+  IND 004 India                                                Asia           3,287,263 1,013,662,000 62.5
+  UMI 005 United States Minor Outlying Islands                 Oceania               16   000,000,000 00.0
+  MCO 006 Monaco                                               Europe               1.5        34,000 78.8
+  AND 007 Andorra                                              Europe               468        78,000 83.5
+  KAZ 008 Kazakstan                                            Asia           2,724,900    16,223,000 63.2
+  UKR 009 Ukraine                                              Europe           603,700    50,456,000 66.0
+  RUS 010 Russian Federation                                   Europe        17,075,400   146,934,000 67.2
+  SDN 011 Sudan                                                Africa         2,505,813    29,490,000 56.6
+  VAT 012 Holy See (Vatican City State)                        Europe               0.4         1,000 00.0
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+  GBR 016 United Kingdom                                       Europe           242,900    59,623,400 77.7
+  SYR 017 Syria                                                Asia             185,180    16,125,000 68.5
+  DEU 018 Germany                                              Europe           357,022    82,164,700 77.4
+  AUT 019 Austria                                              Europe            83,859     8,091,800 77.7
+  BRA 020 Brazil                                               South America  8,547,403   170,115,000 62.9
+  JPN 021 Japan                                                Asia             377,829   126,714,000 80.7
+  ZWE 023 Zimbabwe                                             Africa           390,757    11,669,000 37.8
+  ATA 024 Antarctica                                           Antarctica    13,120,000   000,000,000 00.0
+  JAM 025 Jamaica                                              North America     10,990     2,583,000 75.2
+  ARG 026 Argentina                                            South America  2,780,400    37,032,000 75.1
+AN
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  AND 007 Andorra                                              Europe               468        78,000 83.5
+  ATA 024 Antarctica                                           Antarctica    13,120,000   000,000,000 00.0
+  ARG 026 Argentina                                            South America  2,780,400    37,032,000 75.1
+  AUT 019 Austria                                              Europe            83,859     8,091,800 77.7
+  BRA 020 Brazil                                               South America  8,547,403   170,115,000 62.9
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+  CUB 003 Cuba                                                 North America    110,861    11,201,000 76.2
+  DEU 018 Germany                                              Europe           357,022    82,164,700 77.4
+  VAT 012 Holy See (Vatican City State)                        Europe               0.4         1,000 00.0
+  IND 004 India                                                Asia           3,287,263 1,013,662,000 62.5
+  JAM 025 Jamaica                                              North America     10,990     2,583,000 75.2
+  JPN 021 Japan                                                Asia             377,829   126,714,000 80.7
+  KAZ 008 Kazakstan                                            Asia           2,724,900    16,223,000 63.2
+  MCO 006 Monaco                                               Europe               1.5        34,000 78.8
+  RUS 010 Russian Federation                                   Europe        17,075,400   146,934,000 67.2
+  ZAF 001 South Africa                                         Africa         1,221,037    40,377,000 51.1
+  SDN 011 Sudan                                                Africa         2,505,813    29,490,000 56.6
+  SYR 017 Syria                                                Asia             185,180    16,125,000 68.5
+  UKR 009 Ukraine                                              Europe           603,700    50,456,000 66.0
+  GBR 016 United Kingdom                                       Europe           242,900    59,623,400 77.7
+  USA 002 United States                                        North America  9,363,520   278,357,000 77.1
+  UMI 005 United States Minor Outlying Islands                 Oceania               16   000,000,000 00.0
+  ZWE 023 Zimbabwe                                             Africa           390,757    11,669,000 37.8
+STATUS > TransData FILE closed 29 Transaction processed
+STATUS > TransData FILE opened A1TransData4.txt
+SN United States Minor Outlying Islands
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  UMI 005 United States Minor Outlying Islands                 Oceania               16   000,000,000 00.0
+SN Afghanistan
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SI 1
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ZAF 001 South Africa                                         Africa         1,221,037    40,377,000 51.1
+SN United States
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  USA 002 United States                                        North America  9,363,520   278,357,000 77.1
+SI 239
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country id
+SN China
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+SI 0
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country id
+SI 240
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country id
+SN Vatican
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN Monaco
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  MCO 006 Monaco                                               Europe               1.5        34,000 78.8
+SN AAA
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN ZZZ
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country name
+SN Zimbabwe
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ZWE 023 Zimbabwe                                             Africa           390,757    11,669,000 37.8
+SI 94
+  CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+  ERROR, invalid country id
+STATUS > TransData FILE closed 14 Transaction processed
+STATUS > PrettyPrintUtility started
+N: 23
+DATA STORAGE
+LOC/ CDE ID- NAME------------------------------------------------ CONTINENT---- ------AREA ---POPULATION LIFE
+001/ ZAF 001 South Africa                                         Africa         1,221,037    40,377,000 51.1
+002/ USA 002 United States                                        North America  9,363,520   278,357,000 77.1
+003/ CUB 003 Cuba                                                 North America    110,861    11,201,000 76.2
+004/ IND 004 India                                                Asia           3,287,263 1,013,662,000 62.5
+005/ UMI 005 United States Minor Outlying Islands                 Oceania               16   000,000,000 00.0
+006/ MCO 006 Monaco                                               Europe               1.5        34,000 78.8
+007/ AND 007 Andorra                                              Europe               468        78,000 83.5
+008/ KAZ 008 Kazakstan                                            Asia           2,724,900    16,223,000 63.2
+009/ UKR 009 Ukraine                                              Europe           603,700    50,456,000 66.0
+010/ RUS 010 Russian Federation                                   Europe        17,075,400   146,934,000 67.2
+011/ SDN 011 Sudan                                                Africa         2,505,813    29,490,000 56.6
+012/ VAT 012 Holy See (Vatican City State)                        Europe               0.4         1,000 00.0
+013/ CHN 014 China                                                Asia           9,572,900 1,277,558,000 71.4
+014/ GBR 016 United Kingdom                                       Europe           242,900    59,623,400 77.7
+015/ SYR 017 Syria                                                Asia             185,180    16,125,000 68.5
+016/ DEU 018 Germany                                              Europe           357,022    82,164,700 77.4
+017/ AUT 019 Austria                                              Europe            83,859     8,091,800 77.7
+018/ BRA 020 Brazil                                               South America  8,547,403   170,115,000 62.9
+019/ JPN 021 Japan                                                Asia             377,829   126,714,000 80.7
+020/ ZWE 023 Zimbabwe                                             Africa           390,757    11,669,000 37.8
+021/ ATA 024 Antarctica                                           Antarctica    13,120,000   000,000,000 00.0
+022/ JAM 025 Jamaica                                              North America     10,990     2,583,000 75.2
+023/ ARG 026 Argentina                                            South America  2,780,400    37,032,000 75.1
+
+NAME INDEX
+LOC/ NAME------------------------------------------------ PTR
+001/ South Africa                                         227
+002/ United States                                        228
+003/ Cuba                                                 229
+004/ India                                                230
+005/ United States Minor Outlying Islands                 231
+006/ Monaco                                               232
+007/ Andorra                                              233
+008/ Kazakstan                                            234
+009/ Ukraine                                              235
+010/ Russian Federation                                   236
+011/ Sudan                                                237
+012/ Holy See (Vatican City State)                        238
+013/ China                                                239
+014/ United Kingdom                                       240
+015/ Syria                                                241
+016/ Germany                                              242
+017/ Austria                                              243
+018/ Brazil                                               244
+019/ Japan                                                245
+020/ Zimbabwe                                             246
+021/ Antarctica                                           247
+022/ Jamaica                                              248
+023/ Argentina                                            249
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+STATUS > PrettyPrintUtility finished

@@ -1,0 +1,28 @@
+-- Kaminski CS3310 A1RawDataSample.csv
+
+-- NOTE:  Countries have DIFFERENT id's in this file vs. RawData file to make the range of id's smaller (within 1-25) rather than 1-239
+
+INSERT INTO `Country` VALUES ('RUS',10,'Russian Federation','Europe','Eastern Europe',17075400,1991,146934000,67.2,276608,442989,'Rossija','Federal Republic','Vladimir Putin',3580,'RU');
+INSERT INTO `Country` VALUES ('UMI',5,'United States Minor Outlying Islands','Oceania','Micronesia/Caribbean',16,0,0,0,0,0,'United States Minor Outlying Islands','Dependent Territory of the US','George W. Bush',0,'UM');
+INSERT INTO `Country` VALUES ('CHN',14,'China','Asia','Eastern Asia',9572900,-1523,1277558000,71.4,982268,917719,'Zhongquo',PeoplesRepublic','Jiang Zemin',1891,'CN');
+INSERT INTO `Country` VALUES ('IND',4,'India','Asia','Southern and Central Asia',3287263,1947,1013662000,62.5,447114,430572,'Bharat/India','Federal Republic','Kocheril Raman Narayanan',1109,'IN');
+INSERT INTO `Country` VALUES ('USA',2,'United States','North America','North America',9363520,1776,278357000,77.1,8510700,8110900,'United States','Federal Republic','George W. Bush',3813,'US');
+INSERT INTO `Country` VALUES ('GBR',16,'United Kingdom','Europe','British Islands',242900,1066,59623400,77.7,1378330,1296830,'United Kingdom','Constitutional Monarchy','Elisabeth II',456,'GB');
+INSERT INTO `Country` VALUES ('ZAF',1,'South Africa','Africa','Southern Africa',1221037,1910,40377000,51.1,116729,129092,'South Africa','Republic','Thabo Mbeki',716,'ZA');
+INSERT INTO `Country` VALUE ('ATA',24,'Antarctica','Antarctica','Antarctica',13120000,0,0,0,0,0,'?','Co-administrated','',0,'AQ');
+INSERT INTO `Country` VALUES ('SYR',17,'Syria','Asia','Middle East',185180,1941,16125000,68.5,65984,64926,'Suriya','Republic','Bashar al-Assad',3250,'SY');
+INSERT INTO `Country` VALUES ('AND',7,'Andorra','Europe','Southern Europe',468,1278,78000,83.5,1630,0,'Andorra','Parliamentary Coprincipality','',55,'AD');
+INSERT INTO `Country` VALUES ('MCO',6,'Monaco','Europe','Western Europe',1.5,1861,34000,78.8,776,0,'Monaco','Constitutional Monarchy','Rainier III',2695,'MC');
+INSERT INTO `Country` VALUES ('UKR',9,'Ukraine','Europe','Eastern Europe',603700,1991,50456000,66,42168,49677,'Ukrajina','Republic',Leonid KutSma',3426,'UA');
+INSERT INTO `Country` VALUES ('VAT',12,'Holy See (Vatican City State)','Europe','Southern Europe',0.4,1929,1000,0,9,0,Santa Sede/Citta del Vaticano','Independent Church State','Johannes Paavali II',3538,'VA');
+INSERT INTO `Country` VALUES ('DEU',18,'Germany','Europe','Western Europe',357022,1955,82164700,77.4,2133367,2102826,'Deutschland','Federal Republic','Johannes Rau',3068,'DE');
+INSERT INTO `Country` VALUES ('SDN',11,'Sudan','Africa','Northern Africa',2505813,1956,29490000,56.6,10162,0,'As-Sudan','Islamic Republic','Omar Hassan Ahmad al-Bashir',3225,'SD');
+INSERT INTO `Country` VALUES ('ZWE',23,'Zimbabwe','Africa','Eastern Africa',390757,1980,11669000,37.8,5951,8670,'Zimbabwe','Republic','Robert G. Mugabe',4068,'ZW');
+INSERT INTO `Country` VALUES ('BRA',20,'Brazil','South America','South America',8547403,1822,170115000,62.9,776739,804108,'Brasil','Federal Republic','Fernando Henrique Cardoso',211,'BR');
+INSERT INTO `Country` VALUES ('JPN',21,'Japan','Asia','Eastern Asia',377829,-660,126714000,80.7,3787042,4192638,'Nihon/Nippon','Constitutional Monarchy','Akihito',1532,'JP');
+INSERT INTO `Country` VALUES ('SGS',13,'South Georgia and the South Sandwich Islands','Antarctica','Antarctica',3903,0,0,0,0,0,'South Georgia and the South Sandwich Islands','Dependent Territory of the UK','Elisabeth II',0,'GS');
+
+
+-- SOME EXTRA DATA AT END INCLUDING SOME BLANK LINES BELOW (TO TEST EOF-HANDLING)
+
+

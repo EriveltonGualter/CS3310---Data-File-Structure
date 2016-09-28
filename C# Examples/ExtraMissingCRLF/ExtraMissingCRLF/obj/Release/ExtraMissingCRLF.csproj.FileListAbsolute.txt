@@ -1,0 +1,10 @@
+C:\Documents and Settings\kaminski\Desktop\ExtraMissingCRLF\ExtraMissingCRLF\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\ExtraMissingCRLF\ExtraMissingCRLF\bin\Release\ExtraMissingCRLF.exe
+C:\Documents and Settings\kaminski\Desktop\ExtraMissingCRLF\ExtraMissingCRLF\bin\Release\ExtraMissingCRLF.pdb
+C:\Documents and Settings\kaminski\Desktop\ExtraMissingCRLF\ExtraMissingCRLF\obj\Release\ExtraMissingCRLF.exe
+C:\Documents and Settings\kaminski\Desktop\ExtraMissingCRLF\ExtraMissingCRLF\obj\Release\ExtraMissingCRLF.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\ExtraMissingCRLF\ExtraMissingCRLF\obj\Release\ExtraMissingCRLF.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\ExtraMissingCRLF\ExtraMissingCRLF\obj\Release\ExtraMissingCRLF.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\ExtraMissingCRLF\ExtraMissingCRLF\bin\Release\ExtraMissingCRLF.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\ExtraMissingCRLF\ExtraMissingCRLF\bin\Release\ExtraMissingCRLF.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\ExtraMissingCRLF\ExtraMissingCRLF\obj\Release\ExtraMissingCRLF.csprojResolveAssemblyReference.cache

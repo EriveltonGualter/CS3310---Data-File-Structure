@@ -1,0 +1,15 @@
+C:\Documents and Settings\kaminski\Desktop\AppHas2Prog\DisplayTheFile\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\AppHas2Prog\DisplayTheFile\bin\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\Desktop\AppHas2Prog\DisplayTheFile\bin\Release\DisplayTheFile.pdb
+C:\Documents and Settings\kaminski\Desktop\AppHas2Prog\DisplayTheFile\obj\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\Desktop\AppHas2Prog\DisplayTheFile\obj\Release\DisplayTheFile.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\AppHas2Prog\DisplayTheFile\bin\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\AppHas2Prog\DisplayTheFile\bin\Release\DisplayTheFile.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\AppHas2Prog\DisplayTheFile\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\AppHas2Prog\DisplayTheFile\obj\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\AppHas2Prog\DisplayTheFile\obj\Release\DisplayTheFile.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\AppHas2Prog\DisplayTheFile\obj\Release\DisplayTheFile.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\AppHas2Prog\DisplayTheFile\obj\Release\DisplayTheFile.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\AppHas2Prog\DisplayTheFile\bin\Release\DisplayTheFile.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\AppHas2Prog\DisplayTheFile\bin\Release\DisplayTheFile.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\AppHas2Prog\DisplayTheFile\obj\Release\DisplayTheFile.csprojResolveAssemblyReference.cache

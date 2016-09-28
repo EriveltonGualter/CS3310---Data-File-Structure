@@ -1,0 +1,7 @@
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\DumpProgram\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\DumpProgram\bin\Release\DumpProgram.exe
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\DumpProgram\bin\Release\DumpProgram.pdb
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\DumpProgram\bin\Release\RandomAccess.exe
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\DumpProgram\bin\Release\RandomAccess.pdb
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\DumpProgram\obj\Release\DumpProgram.exe
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\DumpProgram\obj\Release\DumpProgram.pdb

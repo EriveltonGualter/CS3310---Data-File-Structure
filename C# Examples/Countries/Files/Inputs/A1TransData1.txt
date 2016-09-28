@@ -1,0 +1,37 @@
+AN
+AI
+SN China
+SN CHINA
+AI
+SN chinA
+SN Chin
+SN China          
+SN China doll
+SN China=
+SN     China
+SI 13
+SI 10
+SI 1
+SI 24
+SI 0000024
+SN United
+SN United We Stand
+SN United States
+SN United States of America
+SI 0
+SI 999999999
+SI 25
+SN South Georgia and the South Sandwich Islands
+SN South Georgia
+SN Russia
+SN Russian Federation
+SI 19
+SI 8
+SN Egypt
+SN Aaa
+SN Zoo
+SN Antarctica
+SN Zimbabwe
+SN 2
+SI 2
+AI

@@ -1,0 +1,7 @@
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\BinRWRandom\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\BinRWRandom\bin\Release\BinRWRandom.exe
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\BinRWRandom\bin\Release\BinRWRandom.pdb
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\BinRWRandom\bin\Release\BinRWClasses.dll
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\BinRWRandom\bin\Release\BinRWClasses.pdb
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\BinRWRandom\obj\Release\BinRWRandom.exe
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\BinRWRandom\obj\Release\BinRWRandom.pdb

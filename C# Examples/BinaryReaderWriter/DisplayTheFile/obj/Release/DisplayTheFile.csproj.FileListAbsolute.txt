@@ -1,0 +1,16 @@
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\DisplayTheFile\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\DisplayTheFile\bin\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\DisplayTheFile\bin\Release\DisplayTheFile.pdb
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\DisplayTheFile\bin\Release\BinRWClasses.dll
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\DisplayTheFile\bin\Release\BinRWClasses.pdb
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\DisplayTheFile\obj\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\Desktop\BinaryReaderWriter\DisplayTheFile\obj\Release\DisplayTheFile.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\DisplayTheFile\bin\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\DisplayTheFile\bin\Release\DisplayTheFile.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\DisplayTheFile\bin\Release\BinRWClasses.dll
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\DisplayTheFile\bin\Release\BinRWClasses.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\DisplayTheFile\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\DisplayTheFile\obj\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\DisplayTheFile\obj\Release\DisplayTheFile.pdb
+C:\Users\Donna\Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\DisplayTheFile\obj\Release\DisplayTheFile.exe
+C:\Users\Donna\Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\BinaryReaderWriter\DisplayTheFile\obj\Release\DisplayTheFile.pdb

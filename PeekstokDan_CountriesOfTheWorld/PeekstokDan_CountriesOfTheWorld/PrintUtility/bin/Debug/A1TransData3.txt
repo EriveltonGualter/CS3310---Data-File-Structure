@@ -1,0 +1,30 @@
+AN
+AI
+DN United Kingdom
+DI 10
+DN Computer Science
+DI 0
+DI 25
+SN United Kingdom
+SI 10
+IN INSERT INTO 'Country' VALUES ('ARG',26,'Argentina','South America','South America',2780400,1816,37032000,75.1,340238,323310,'Argentina','Federal Republic','Fernando de la Rua',69,'AR');
+IN ...... .... ......... ...... ('JAM',25,'Jamaica','North America','Caribbean',10990,1962,2583000,75.2,6871,6722,'Jamaica','Constitutional Monarchy','Elisabeth II',1530,'JM');
+IN ...... .... ......... ...... ('CUB',3,'Cuba','North America','Caribbean',110861,1902,11201000,76.2,17843,18862,'Cuba','Socialistic Republic','Fidel Castro Ruz',2413,'CU');
+IN ...... .... ......... ...... ('AUT',19,'Austria','Europe','Western Europe',83859,1918,8091800,77.7,211860,206025,'Osterreich','Federal Republic','Thomas Klestil',1523,'AT');
+IN ...... .... ......... ...... ('BWA',12,'Botswana','Africa','Southern Africa',581730,1966,1622000,39.3,4834,4935,'Botswana','Republic','Festus G. Mogae',204,'BW');
+IN ...... .... ......... ...... ('KAZ',8,'Kazakstan','Asia','Southern and Central Asia',2724900,1991,16223000,63.2,24375,23383,'Qazaqstan','Republic','Nursultan Nazarbajev',1864,'KZ');
+SN Kazakstan
+SN Botswana
+SI 8
+SI 3
+SI 26
+SN Argentina
+SN Jamaica
+SI 25
+SI 12
+SN Cuba
+SN Austria
+SI 19
+AI
+AN
+

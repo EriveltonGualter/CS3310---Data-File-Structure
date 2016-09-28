@@ -1,0 +1,15 @@
+J:\Databases\Databases\bin\Debug\Databases.exe
+J:\Databases\Databases\bin\Debug\Databases.pdb
+J:\Databases\Databases\obj\x86\Debug\CountriesOfTheWorld.csprojResolveAssemblyReference.cache
+J:\Databases\Databases\obj\x86\Debug\Databases.exe
+J:\Databases\Databases\obj\x86\Debug\Databases.pdb
+F:\Databases\Databases\obj\x86\Debug\Databases.exe
+F:\Databases\Databases\obj\x86\Debug\Databases.pdb
+F:\Databases\Databases\bin\Debug\Databases.exe
+F:\Databases\Databases\bin\Debug\Databases.pdb
+F:\Databases\Databases\obj\x86\Debug\CountriesOfTheWorld.csprojResolveAssemblyReference.cache
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\HoganChartersAsn1\Databases\Databases\obj\x86\Debug\Databases.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\HoganChartersAsn1\Databases\Databases\obj\x86\Debug\Databases.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\HoganChartersAsn1\Databases\Databases\bin\Debug\Databases.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\HoganChartersAsn1\Databases\Databases\bin\Debug\Databases.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\HoganChartersAsn1\Databases\Databases\obj\x86\Debug\CountriesOfTheWorld.csprojResolveAssemblyReference.cache

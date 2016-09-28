@@ -1,0 +1,40 @@
+>>> program starting
+STORE IS OPENING
+>>> initial heap built containing 21 nodes
+
+SERVING: Bob O'Leary Sr.      (6)
+SERVING: Jim O'Leary          (6)
+SERVING: Rosie O'Brien        (19)
+SERVING: Bob O'Leary          (30)
+SERVING: Stan Anderson        (65)
+SERVING: Mary Smith           (66)
+SERVING: Aziz Gupta           (71)
+SERVING: Maria Garcia         (78)
+SERVING: Roman Zwykowicz      (82)
+SERVING: Josh Miller          (83)
+SERVING: Rajesh Patel         (94)
+SERVING: John Doe             (102)
+SERVING: Lynn VanderCook      (102)
+SERVING: Ling Yin             (105)
+SERVING: Malia AlFaleh        (105)
+SERVING: Li Sung              (106)
+ADDING:  Lottie Zipnowski     (42)
+ADDING:  Jack Larson          (113)
+ADDING:  Fallah Ola           (74)
+ADDING:  Jun Sung             (125)
+ADDING:  Mrs. VanDooran       (96)
+SERVING: Lottie Zipnowski     (42)
+SERVING: Fallah Ola           (74)
+SERVING: Mrs. VanDooran       (96)
+
+STORE IS CLOSING
+>>> heap currently has 7 nodes remaining
+SERVING: Jamal Brown          (107)
+SERVING: Latisha Ford         (108)
+SERVING: Su Chan              (109)
+SERVING: Jack Larson          (113)
+SERVING: Mohsin Waleed        (118)
+SERVING: Abdalla AlSaid       (119)
+SERVING: Jun Sung             (125)
+>>> heap is now empty
+>>> program terminating

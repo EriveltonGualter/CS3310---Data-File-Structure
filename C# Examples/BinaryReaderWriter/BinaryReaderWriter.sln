@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryReaderWriter", "BinaryReaderWriter\BinaryReaderWriter.csproj", "{908A754B-08D2-4EB6-8CE4-C8961AF595F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinRWClasses", "BinRWClasses\BinRWClasses.csproj", "{B18ACC34-A681-42CE-81C7-A863F3EA47E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayTheFile", "DisplayTheFile\DisplayTheFile.csproj", "{56D81CEB-6D4F-48A6-81BD-4870280BDBDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{908A754B-08D2-4EB6-8CE4-C8961AF595F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908A754B-08D2-4EB6-8CE4-C8961AF595F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908A754B-08D2-4EB6-8CE4-C8961AF595F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908A754B-08D2-4EB6-8CE4-C8961AF595F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18ACC34-A681-42CE-81C7-A863F3EA47E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18ACC34-A681-42CE-81C7-A863F3EA47E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18ACC34-A681-42CE-81C7-A863F3EA47E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18ACC34-A681-42CE-81C7-A863F3EA47E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D81CEB-6D4F-48A6-81BD-4870280BDBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D81CEB-6D4F-48A6-81BD-4870280BDBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D81CEB-6D4F-48A6-81BD-4870280BDBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D81CEB-6D4F-48A6-81BD-4870280BDBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\Library\myDocuments\Personal Docs\School\WMU fall '14\3310\PeekstokDan_CountriesOfTheWorld\OtherClasses\obj\Debug\OtherClasses.csprojResolveAssemblyReference.cache
+D:\Library\myDocuments\Personal Docs\School\WMU fall '14\3310\PeekstokDan_CountriesOfTheWorld\OtherClasses\bin\Debug\OtherClasses.dll.config
+D:\Library\myDocuments\Personal Docs\School\WMU fall '14\3310\PeekstokDan_CountriesOfTheWorld\OtherClasses\bin\Debug\OtherClasses.dll
+D:\Library\myDocuments\Personal Docs\School\WMU fall '14\3310\PeekstokDan_CountriesOfTheWorld\OtherClasses\bin\Debug\OtherClasses.pdb
+D:\Library\myDocuments\Personal Docs\School\WMU fall '14\3310\PeekstokDan_CountriesOfTheWorld\OtherClasses\obj\Debug\OtherClasses.dll
+D:\Library\myDocuments\Personal Docs\School\WMU fall '14\3310\PeekstokDan_CountriesOfTheWorld\OtherClasses\obj\Debug\OtherClasses.pdb

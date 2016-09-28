@@ -1,0 +1,105 @@
+************************* BACKUP FILE *************************
+DT>ZAF>1>South Africa>Africa>1221037>40377000>51.1
+DT>USA>2>United States>North America>9363520>278357000>77.1
+DT>IND>4>India>Asia>3287263>1013662000>62.5
+DT>UMI>5>United States Minor Outlying Islands>Oceania>16>0>0
+DT>MCO>6>Monaco>Europe>1.5>34000>78.8
+DT>AND>7>Andorra>Europe>468>78000>83.5
+DT>UKR>9>Ukraine>Europe>603700>50456000>66
+DT>RUS>10>Russian Federation>Europe>17075400>146934000>67.2
+DT>SDN>11>Sudan>Africa>2505813>29490000>56.6
+DT>VAT>12>Holy See (Vatican City State)>Europe>0.4>1000>0
+DT>CHN>14>China>Asia>9572900>1277558000>71.4
+DT>GBR>16>United Kingdom>Europe>242900>59623400>77.7
+DT>SYR>17>Syria>Asia>185180>16125000>68.5
+DT>DEU>18>Germany>Europe>357022>82164700>77.4
+DT>BRA>20>Brazil>South America>8547403>170115000>62.9
+DT>JPN>21>Japan>Asia>377829>126714000>80.7
+DT>ZWE>23>Zimbabwe>Africa>390757>11669000>37.8
+DT>ATA>24>Antarctica>Antarctica>13120000>0>0
+************************* Name Index *************************
+NI>1>South Africa
+NI>2>United States
+NI>4>India
+NI>5>United States Minor Outlying Islands
+NI>6>Monaco
+NI>7>Andorra
+NI>9>Ukraine
+NI>10>Russian Federation
+NI>11>Sudan
+NI>12>Holy See (Vatican City State)
+NI>14>China
+NI>16>United Kingdom
+NI>17>Syria
+NI>18>Germany
+NI>20>Brazil
+NI>21>Japan
+NI>23>Zimbabwe
+NI>24>Antarctica
+************************* Name Index *************************
+NI>1>South Africa
+NI>2>United States
+NI>4>India
+NI>5>United States Minor Outlying Islands
+NI>6>Monaco
+NI>7>Andorra
+NI>9>Ukraine
+NI>10>Russian Federation
+NI>11>Sudan
+NI>12>Holy See (Vatican City State)
+NI>14>China
+NI>16>United Kingdom
+NI>17>Syria
+NI>18>Germany
+NI>20>Brazil
+NI>21>Japan
+NI>23>Zimbabwe
+NI>24>Antarctica
+DT>ARG>26>Argentina>South America>2780400>37032000>75.1
+NI>ARG>26>Argentina>South America>2780400>37032000>75.1
+DT>JAM>25>Jamaica>North America>10990>2583000>75.2
+NI>JAM>25>Jamaica>North America>10990>2583000>75.2
+DT>CUB>3>Cuba>North America>110861>11201000>76.2
+NI>CUB>3>Cuba>North America>110861>11201000>76.2
+DT>AUT>19>Austria>Europe>83859>8091800>77.7
+NI>AUT>19>Austria>Europe>83859>8091800>77.7
+DT>KAZ>8>Kazakstan>Asia>2724900>16223000>63.2
+NI>KAZ>8>Kazakstan>Asia>2724900>16223000>63.2
+************************* Name Index *************************
+NI>1>South Africa
+NI>2>United States
+NI>4>India
+NI>5>United States Minor Outlying Islands
+NI>6>Monaco
+NI>7>Andorra
+NI>9>Ukraine
+NI>10>Russian Federation
+NI>11>Sudan
+NI>12>Holy See (Vatican City State)
+NI>14>China
+NI>16>United Kingdom
+NI>17>Syria
+NI>18>Germany
+NI>20>Brazil
+NI>21>Japan
+NI>23>Zimbabwe
+NI>24>Antarctica
+************************* Name Index *************************
+NI>1>South Africa
+NI>2>United States
+NI>4>India
+NI>5>United States Minor Outlying Islands
+NI>6>Monaco
+NI>7>Andorra
+NI>9>Ukraine
+NI>10>Russian Federation
+NI>11>Sudan
+NI>12>Holy See (Vatican City State)
+NI>14>China
+NI>16>United Kingdom
+NI>17>Syria
+NI>18>Germany
+NI>20>Brazil
+NI>21>Japan
+NI>23>Zimbabwe
+NI>24>Antarctica

@@ -1,0 +1,5 @@
+C:\Documents and Settings\WMUFaculty\Desktop\NotCloseOutFile\NotCloseOutFile\bin\Debug\NotCloseOutFile.exe
+C:\Documents and Settings\WMUFaculty\Desktop\NotCloseOutFile\NotCloseOutFile\bin\Debug\NotCloseOutFile.pdb
+C:\Documents and Settings\WMUFaculty\Desktop\NotCloseOutFile\NotCloseOutFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WMUFaculty\Desktop\NotCloseOutFile\NotCloseOutFile\obj\Debug\NotCloseOutFile.exe
+C:\Documents and Settings\WMUFaculty\Desktop\NotCloseOutFile\NotCloseOutFile\obj\Debug\NotCloseOutFile.pdb

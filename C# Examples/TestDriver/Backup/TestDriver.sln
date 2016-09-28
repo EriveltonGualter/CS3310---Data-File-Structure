@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDriver", "TestDriver\TestDriver.csproj", "{B4E02093-0334-4294-B20A-AD0F7C605789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayProject", "DisplayProject\DisplayProject.csproj", "{07B58643-8CEA-4A4A-9C01-8B99D908966E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E02093-0334-4294-B20A-AD0F7C605789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E02093-0334-4294-B20A-AD0F7C605789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E02093-0334-4294-B20A-AD0F7C605789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E02093-0334-4294-B20A-AD0F7C605789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B58643-8CEA-4A4A-9C01-8B99D908966E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B58643-8CEA-4A4A-9C01-8B99D908966E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B58643-8CEA-4A4A-9C01-8B99D908966E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B58643-8CEA-4A4A-9C01-8B99D908966E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

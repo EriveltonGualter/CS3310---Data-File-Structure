@@ -1,0 +1,22 @@
+C:\Users\Donna\Desktop\ReadLoopStructure\ReadLoopStructure\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Donna\Desktop\ReadLoopStructure\ReadLoopStructure\bin\Release\ReadLoopStructure.exe
+C:\Users\Donna\Desktop\ReadLoopStructure\ReadLoopStructure\bin\Release\ReadLoopStructure.pdb
+C:\Users\Donna\Desktop\ReadLoopStructure\ReadLoopStructure\obj\Release\ReadLoopStructure.exe
+C:\Users\Donna\Desktop\ReadLoopStructure\ReadLoopStructure\obj\Release\ReadLoopStructure.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\C# FILE handling\F09 C# File examples\ReadLoopStructure\ReadLoopStructure\obj\Release\ReadLoopStructure.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\C# FILE handling\F09 C# File examples\ReadLoopStructure\ReadLoopStructure\obj\Release\ReadLoopStructure.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\C# FILE handling\F09 C# File examples\ReadLoopStructure\ReadLoopStructure\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\C# FILE handling\F09 C# File examples\ReadLoopStructure\ReadLoopStructure\bin\Release\ReadLoopStructure.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\C# FILE handling\F09 C# File examples\ReadLoopStructure\ReadLoopStructure\bin\Release\ReadLoopStructure.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\C# FILE handling\F09 C# File examples\DONE\ReadLoopStructure\ReadLoopStructure\obj\Release\ReadLoopStructure.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\C# FILE handling\F09 C# File examples\DONE\ReadLoopStructure\ReadLoopStructure\obj\Release\ReadLoopStructure.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\C# FILE handling\F09 C# File examples\DONE\ReadLoopStructure\ReadLoopStructure\bin\Release\ReadLoopStructure.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\C# FILE handling\F09 C# File examples\DONE\ReadLoopStructure\ReadLoopStructure\bin\Release\ReadLoopStructure.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\C# FILE handling\F09 C# File examples\DONE\ReadLoopStructure\ReadLoopStructure\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\ReadLoopStructure\ReadLoopStructure\obj\Release\ReadLoopStructure.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\ReadLoopStructure\ReadLoopStructure\obj\Release\ReadLoopStructure.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\ReadLoopStructure\ReadLoopStructure\bin\Release\ReadLoopStructure.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\ReadLoopStructure\ReadLoopStructure\bin\Release\ReadLoopStructure.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\ReadLoopStructure\ReadLoopStructure\obj\Release\ResolveAssemblyReference.cache
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\ReadLoopStructure\ReadLoopStructure\obj\Release\ReadLoopStructure.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\ReadLoopStructure\ReadLoopStructure\obj\Release\ReadLoopStructure.pdb

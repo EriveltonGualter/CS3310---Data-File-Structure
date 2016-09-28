@@ -1,0 +1,15 @@
+SN United States Minor Outlying Islands
+SN Afghanistan
+SI 1
+SN United States
+SI 239
+SN China
+SI 0
+SI 240
+SN Vatican
+SN Monaco
+SN AAA
+SN ZZZ
+SN Zimbabwe
+SI 94
+

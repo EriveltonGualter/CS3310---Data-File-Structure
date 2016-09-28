@@ -1,0 +1,14 @@
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\bin\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\bin\Release\DisplayTheFile.pdb
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\bin\Release\TwoProgShareClass.exe
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\bin\Release\TwoProgShareClass.pdb
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\obj\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\obj\Release\DisplayTheFile.pdb
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\DisplayTheFile\obj\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\DisplayTheFile\obj\Release\DisplayTheFile.pdb
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\DisplayTheFile\bin\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\DisplayTheFile\bin\Release\DisplayTheFile.pdb
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\DisplayTheFile\bin\Release\TwoProgShareClass.exe
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\DisplayTheFile\bin\Release\TwoProgShareClass.pdb
+C:\Documents and Settings\kaminski\Desktop\ProgRuns2Prog\DisplayTheFile\obj\Release\ResolveAssemblyReference.cache

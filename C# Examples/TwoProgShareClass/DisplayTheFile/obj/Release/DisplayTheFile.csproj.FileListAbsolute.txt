@@ -1,0 +1,14 @@
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\bin\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\bin\Release\DisplayTheFile.pdb
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\bin\Release\TwoProgShareClass.exe
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\bin\Release\TwoProgShareClass.pdb
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\obj\Release\DisplayTheFile.exe
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\DisplayTheFile\obj\Release\DisplayTheFile.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TwoProgShareClass\DisplayTheFile\obj\Release\DisplayTheFile.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TwoProgShareClass\DisplayTheFile\obj\Release\DisplayTheFile.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TwoProgShareClass\DisplayTheFile\bin\Release\DisplayTheFile.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TwoProgShareClass\DisplayTheFile\bin\Release\DisplayTheFile.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TwoProgShareClass\DisplayTheFile\bin\Release\TwoProgShareClass.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TwoProgShareClass\DisplayTheFile\bin\Release\TwoProgShareClass.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TwoProgShareClass\DisplayTheFile\obj\Release\DisplayTheFile.csprojResolveAssemblyReference.cache

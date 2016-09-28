@@ -1,0 +1,7 @@
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\QueryProgram\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\QueryProgram\bin\Release\QueryProgram.exe
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\QueryProgram\bin\Release\QueryProgram.pdb
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\QueryProgram\bin\Release\RandomAccess.exe
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\QueryProgram\bin\Release\RandomAccess.pdb
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\QueryProgram\obj\Release\QueryProgram.exe
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\QueryProgram\obj\Release\QueryProgram.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\QueryProgram\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\QueryProgram\bin\Release\QueryProgram.exe
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\QueryProgram\bin\Release\QueryProgram.pdb
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\QueryProgram\bin\Release\BinRWClasses.dll
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\QueryProgram\bin\Release\BinRWClasses.pdb
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\QueryProgram\obj\Release\QueryProgram.exe
+C:\Documents and Settings\kaminski\Desktop\BinRWRandom\QueryProgram\obj\Release\QueryProgram.pdb

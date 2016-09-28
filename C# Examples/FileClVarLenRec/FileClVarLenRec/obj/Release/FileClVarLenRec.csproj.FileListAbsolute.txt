@@ -1,0 +1,15 @@
+C:\Documents and Settings\kaminski\Desktop\FileClVarLenRec\FileClVarLenRec\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\FileClVarLenRec\FileClVarLenRec\bin\Release\FileClVarLenRec.exe
+C:\Documents and Settings\kaminski\Desktop\FileClVarLenRec\FileClVarLenRec\bin\Release\FileClVarLenRec.pdb
+C:\Documents and Settings\kaminski\Desktop\FileClVarLenRec\FileClVarLenRec\obj\Release\FileClVarLenRec.exe
+C:\Documents and Settings\kaminski\Desktop\FileClVarLenRec\FileClVarLenRec\obj\Release\FileClVarLenRec.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\FileClVarLenRec\FileClVarLenRec\obj\Release\FileClVarLenRec.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\FileClVarLenRec\FileClVarLenRec\obj\Release\FileClVarLenRec.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\FileClVarLenRec\FileClVarLenRec\bin\Release\FileClVarLenRec.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\FileClVarLenRec\FileClVarLenRec\bin\Release\FileClVarLenRec.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\WEBSITE\Spr10 3310 Website\C# Projects\FileClVarLenRec\FileClVarLenRec\obj\Release\ResolveAssemblyReference.cache
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\FileClVarLenRec\FileClVarLenRec\obj\Release\FileClVarLenRec.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\FileClVarLenRec\FileClVarLenRec\obj\Release\FileClVarLenRec.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\FileClVarLenRec\FileClVarLenRec\bin\Release\FileClVarLenRec.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\FileClVarLenRec\FileClVarLenRec\bin\Release\FileClVarLenRec.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\FileClVarLenRec\FileClVarLenRec\obj\Release\FileClVarLenRec.csprojResolveAssemblyReference.cache

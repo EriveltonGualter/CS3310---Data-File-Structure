@@ -1,0 +1,9 @@
+C:\Documents and Settings\kaminski\Desktop\TestDriver\TestDriver\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\TestDriver\TestDriver\bin\Release\TestDriver.exe
+C:\Documents and Settings\kaminski\Desktop\TestDriver\TestDriver\bin\Release\TestDriver.pdb
+C:\Documents and Settings\kaminski\Desktop\TestDriver\TestDriver\bin\Release\DisplayProject.exe
+C:\Documents and Settings\kaminski\Desktop\TestDriver\TestDriver\bin\Release\DisplayProject.pdb
+C:\Documents and Settings\kaminski\Desktop\TestDriver\TestDriver\obj\Release\TestDriver.exe
+C:\Documents and Settings\kaminski\Desktop\TestDriver\TestDriver\obj\Release\TestDriver.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TestDriver\TestDriver\obj\Release\TestDriver.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TestDriver\TestDriver\obj\Release\TestDriver.pdb

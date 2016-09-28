@@ -1,0 +1,7 @@
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\RandomAccess\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\RandomAccess\bin\Release\RandomAccess.exe
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\RandomAccess\bin\Release\RandomAccess.pdb
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\RandomAccess\obj\Release\RandomAccess.exe
+C:\Documents and Settings\kaminski\Desktop\RandomAccess\RandomAccess\obj\Release\RandomAccess.pdb
+C:\Documents and Settings\WMUFaculty\My Documents\+ Classes\cs3310\+ WEBSITE\3310 Website\C# Projects\RandomAccess\RandomAccess\obj\Release\RandomAccess.exe
+C:\Documents and Settings\WMUFaculty\My Documents\+ Classes\cs3310\+ WEBSITE\3310 Website\C# Projects\RandomAccess\RandomAccess\obj\Release\RandomAccess.pdb

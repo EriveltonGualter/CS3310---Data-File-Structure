@@ -1,0 +1,10 @@
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\TwoProgShareClass\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\TwoProgShareClass\bin\Release\TwoProgShareClass.exe
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\TwoProgShareClass\bin\Release\TwoProgShareClass.pdb
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\TwoProgShareClass\obj\Release\TwoProgShareClass.exe
+C:\Documents and Settings\kaminski\Desktop\TwoProgShareClass\TwoProgShareClass\obj\Release\TwoProgShareClass.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TwoProgShareClass\TwoProgShareClass\bin\Release\TwoProgShareClass.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TwoProgShareClass\TwoProgShareClass\bin\Release\TwoProgShareClass.pdb
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TwoProgShareClass\TwoProgShareClass\obj\Release\TwoProgShareClass.csprojResolveAssemblyReference.cache
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TwoProgShareClass\TwoProgShareClass\obj\Release\TwoProgShareClass.exe
+C:\Users\EriveltonDell\Documents\Western Michigan University\CS3310 - Data & File Structure\C# Examples\TwoProgShareClass\TwoProgShareClass\obj\Release\TwoProgShareClass.pdb

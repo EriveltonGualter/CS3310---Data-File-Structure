@@ -1,0 +1,10 @@
+C:\Documents and Settings\kaminski\Desktop\DeleteAFile\DeleteAFile\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\DeleteAFile\DeleteAFile\bin\Release\DeleteAFile.exe
+C:\Documents and Settings\kaminski\Desktop\DeleteAFile\DeleteAFile\bin\Release\DeleteAFile.pdb
+C:\Documents and Settings\kaminski\Desktop\DeleteAFile\DeleteAFile\obj\Release\DeleteAFile.exe
+C:\Documents and Settings\kaminski\Desktop\DeleteAFile\DeleteAFile\obj\Release\DeleteAFile.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\DeleteAFile\DeleteAFile\obj\Release\DeleteAFile.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\DeleteAFile\DeleteAFile\obj\Release\DeleteAFile.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\DeleteAFile\DeleteAFile\bin\Release\DeleteAFile.exe
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\DeleteAFile\DeleteAFile\bin\Release\DeleteAFile.pdb
+C:\Documents and Settings\kaminski\My Documents\+ Classes\+ 3310\+ WEBSITE\+ Spr10 3310 Website\C# Projects\DeleteAFile\DeleteAFile\obj\Release\ResolveAssemblyReference.cache
